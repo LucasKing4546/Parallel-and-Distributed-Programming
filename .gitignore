@@ -1,0 +1,11 @@
+# Build artifacts
+*.exe
+*.class
+*.o
+output/
+
+# Python
+__pycache__/
+
+# Editor
+.vscode/

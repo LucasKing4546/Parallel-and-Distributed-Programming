@@ -1,0 +1,7 @@
+1. Write the programs in C++ and Java - seq and parallel
+1.1. The programs read the input from a file and write the results to a file (the input files are randomly generated)
+1.2. The execution time is printed to stdout
+2. Write some scripts for automated testing (both programs)
+2.1. You must check correctness for 10 independent runs
+3. Collect the execution times and compute the avg time (for each test case)
+4. Write the documentation
